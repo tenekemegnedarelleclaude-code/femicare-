@@ -1,0 +1,6 @@
+{
+  "name": "FemiCare - Santé Féminine",
+  "description": "Application de santé féminine, suivi menstruel, fertilité, maternité, téléconsultation et urgences au Cameroun et Afrique francophone.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
